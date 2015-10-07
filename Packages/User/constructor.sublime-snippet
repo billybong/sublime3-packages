@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+public static ${TM_FILENAME/(.+)\..+/$1/} neew(){
+    ${TM_FILENAME/(.+)\..+/$1/} ret;
+    ret = super.neew();
+
+    return ret;
+}
+]]></content>
+    <tabTrigger>constructor</tabTrigger>
+    <scope>source.java</scope>
+</snippet>
+

@@ -1,0 +1,65 @@
+[
+	{
+		"args":
+		{
+			"by": "words",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"extend": true,
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args": null,
+		"command": "copy"
+	},
+	{
+		"args":
+		{
+			"extend": false,
+			"to": "bof"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\nimport "
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "paste"
+	},
+	{
+		"args":
+		{
+			"characters": ";"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "words",
+			"forward": false
+		},
+		"command": "move"
+	}
+]

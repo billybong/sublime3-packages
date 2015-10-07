@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+User.tell(${1});
+]]></content>
+    <tabTrigger>ut</tabTrigger>
+    <scope>source.java</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+int ${1:index};
+${1:index} = 0;
+while(${1:index} <= ${2:name}){
+    ${3:operation};
+    ${1:index} = ${1:index} + 1;
+}
+]]></content>
+    <tabTrigger>whilei</tabTrigger>
+    <scope>source.java</scope>
+</snippet>

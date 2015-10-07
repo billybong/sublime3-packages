@@ -1,0 +1,47 @@
+[
+	{
+		"args":
+		{
+			"extend": false,
+			"to": "bof"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"extend": true,
+			"to": "eol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"extend": true,
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args": null,
+		"command": "copy"
+	}
+]

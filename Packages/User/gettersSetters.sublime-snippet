@@ -1,0 +1,14 @@
+<snippet>
+ <content>
+<![CDATA[public ${1:returnType} get${2:Property}(){
+    return this.${3:property};
+}
+
+public ${TM_FILENAME/(.+)\..+|.*/$1/:name} set${2:Property}(${1:returnType} ${3:property}){
+    this.${3:property} = ${3:property};
+    return this;
+}
+]]></content>
+ <tabTrigger>gs</tabTrigger>
+ <scope>source.java</scope>
+</snippet>

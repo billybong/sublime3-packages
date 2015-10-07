@@ -1,0 +1,17 @@
+[
+	{
+		"args":
+		{
+			"to": "brackets"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"by": "wordends",
+			"forward": true
+		},
+		"command": "move"
+	}
+]

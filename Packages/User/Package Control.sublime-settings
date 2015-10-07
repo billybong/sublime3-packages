@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AsciiDoc",
+		"Babel",
+		"Better CoffeeScript",
+		"Darkula Color Scheme",
+		"Drunken NSIS",
+		"FreeMarker",
+		"Gradle_Language",
+		"Indent XML",
+		"Jasmine JS",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"JSONLint",
+		"JSX",
+		"LiveReload",
+		"NSIS",
+		"NSIS Completions & Snippets",
+		"Package Control",
+		"Path Tools",
+		"Pretty JSON",
+		"ReactJS",
+		"ReactJS Snippets",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"SublimeLinter",
+		"SublimeLinter-flow",
+		"SublimeLinter-jshint",
+		"Super Ant",
+		"Theme - Soda",
+		"TypeScript",
+		"TypescriptCompletion",
+		"WhoCalled Function Finder",
+		"xml2json"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"atomic_save": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		},
+		{
+			"characters": ".",
+			"selector": "source.java"
+		}
+	],
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"default_encoding": "Western (Windows 1252)",
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"enable_tab_scrolling": false,
+	"font_face": "Hack",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_content": false,
+	"match_selection": false,
+	"match_tags": false,
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_full_path": false,
+	"sidebar_default": true,
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"typescript_plugin_tsc_version": "1.6.2",
+	"word_wrap": false
+}
